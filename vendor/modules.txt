@@ -1,0 +1,7 @@
+# github.com/hashicorp/go-cleanhttp v0.5.1
+github.com/hashicorp/go-cleanhttp
+# github.com/hekmon/cunits/v2 v2.0.2
+github.com/hekmon/cunits/v2
+# github.com/hekmon/transmissionrpc v1.1.1-0.20200621183139-05b4d9c9659e
+## explicit
+github.com/hekmon/transmissionrpc
